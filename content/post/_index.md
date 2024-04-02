@@ -1,5 +1,6 @@
 ---
 title: Posts
+draft: true
 cms_exclude: true
 
 # View.
