@@ -144,17 +144,7 @@ sections:
     id: contact
     content:
       title: Contact
-      email: \[name\].achdou@gmail.com
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      email: "[name].achdou@gmail.com"
     design:
       columns: '2'
 ---
