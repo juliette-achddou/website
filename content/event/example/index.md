@@ -1,5 +1,5 @@
 ---
-title: "ML-MTP : Multitask Online Learning and Perspectives"
+title: "ML-MTP : Multitask Online Learning: Listen to the Neighbourhood Buzz"
 event: 'ML-MTP Seminar'
 event_url: ''
 
