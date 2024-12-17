@@ -7,7 +7,7 @@
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:40743/media/icon_hu10226378635250344412.png</url>
+      <url>http://localhost:40743/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
       <link>http://localhost:40743/project/</link>
     </image>
@@ -34,14 +34,6 @@
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:40743/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>http://localhost:40743/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40743/project/external-project/</guid>
-      <description></description>
     </item>
     
   </channel>
