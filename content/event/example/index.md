@@ -56,7 +56,5 @@ projects: []
 math: true
 
 
-featured: true
 
-projects: []
 ---

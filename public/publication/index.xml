@@ -2,53 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Juliette Achddou</title>
-    <link>http://localhost:1313/publication/</link>
-      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:40743/publication/</link>
+      <atom:link href="http://localhost:40743/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:40743/media/icon_hu10226378635250344412.png</url>
       <title>Publications</title>
-      <link>http://localhost:1313/publication/</link>
+      <link>http://localhost:40743/publication/</link>
     </image>
     
     <item>
+      <title>Distributed Online Optimization with Stochastic Agent Availability</title>
+      <link>http://localhost:40743/publication/distrib-opti/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40743/publication/distrib-opti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multitask Online Learning: Listen to the Neighborhood Buzz</title>
-      <link>http://localhost:1313/publication/mt-cool/</link>
+      <link>http://localhost:40743/publication/mt-cool/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mt-cool/</guid>
+      <guid>http://localhost:40743/publication/mt-cool/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regret Analysis of the Stochastic Direct Search Method for Blind Resource Allocation</title>
-      <link>http://localhost:1313/publication/resource-alloc/</link>
+      <link>http://localhost:40743/publication/resource-alloc/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/resource-alloc/</guid>
+      <guid>http://localhost:40743/publication/resource-alloc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient algorithms for repeated second price auctions</title>
-      <link>http://localhost:1313/publication/second-price/</link>
+      <link>http://localhost:40743/publication/second-price/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/second-price/</guid>
+      <guid>http://localhost:40743/publication/second-price/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast Rate Learning in Stochastic First Price Bidding</title>
-      <link>http://localhost:1313/publication/first-price/</link>
+      <link>http://localhost:40743/publication/first-price/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/first-price/</guid>
+      <guid>http://localhost:40743/publication/first-price/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A minimax near-optimal algorithm for adaptive rejection sampling</title>
-      <link>http://localhost:1313/publication/rejection-sampler/</link>
+      <link>http://localhost:40743/publication/rejection-sampler/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rejection-sampler/</guid>
+      <guid>http://localhost:40743/publication/rejection-sampler/</guid>
       <description></description>
     </item>
     

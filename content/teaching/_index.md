@@ -1,15 +1,23 @@
 ---
-title: Recent & Upcoming Talks
-cms_exclude: true
+title: Teaching
+summary: My courses
+type: landing
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 1
+cascade:
+  - _target:
+      kind: page
+    params:
+      show_breadcrumb: true
 
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ''
-  image: ''
+sections:
+  - block: collection
+    id: teaching
+    content:
+      title: Teaching
+      filters:
+        folders:
+          - teaching
+    design:
+      view: article-grid
+      columns: 2
 ---
