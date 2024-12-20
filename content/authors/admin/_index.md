@@ -56,5 +56,5 @@ education:
 
 I am an Associate Professor at [Université de Lille](https://www.univ-lille.fr/) in France. As a researcher, I am part of the [CRIStAL](https://www.cristal.univ-lille.fr/) laboratory and belong to the [Scool unit](https://team.inria.fr/scool/team-members/).
 I teach Math/CS-related courses at [Polytech Lille](https://www.polytech-lille.fr/).
-Previously, I  held a postdoctoral position at a postdoc in at Università degli Studi di Milano (Italy), in the group of [Nicolò Cesa-Bianchi](https://cesa-bianchi.di.unimi.it/). I completed my PhD under the supervision on [Olivier Cappé](https://www.di.ens.fr/olivier.cappe/) and [Aurélien Garivier](https://perso.ens-lyon.fr/aurelien.garivier/www.math.univ-toulouse.fr/_agarivie/index.html).
+Previously, I  held a postdoctoral position in Università degli Studi di Milano (Italy), in the group of [Nicolò Cesa-Bianchi](https://cesa-bianchi.di.unimi.it/). I completed my PhD under the supervision on [Olivier Cappé](https://www.di.ens.fr/olivier.cappe/) and [Aurélien Garivier](https://perso.ens-lyon.fr/aurelien.garivier/www.math.univ-toulouse.fr/_agarivie/index.html).
 {style="text-align: justify;"}
